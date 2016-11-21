@@ -4,6 +4,7 @@ local composer = require "composer"
 local widget = require "widget"
 
 local user_data = require "userData"
+local spoopy = require "spoopy"
 
 local scene = composer.newScene() 
 
